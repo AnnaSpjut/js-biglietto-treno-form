@@ -8,8 +8,8 @@ Sulla base di queste informazioni dovrà calcolare il prezzo totale del viaggio,
 - output prezzo finale con max 2 decimali
 
 ## Svoglimento
-1. promt km percorso del passaggero
-2. promt età del passaggero
+1. input km percorso del passaggero
+2. input età del passaggero
 3. calcolo prezzo al km * quantità km percorso
 4. verifica se il passaggero è minorenne o maggiorenne
 5. verifica se il passaggero è over o under 65
