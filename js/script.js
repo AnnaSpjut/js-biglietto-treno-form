@@ -32,6 +32,6 @@ btnGenerate.addEventListener('click',function(){
   console.log(totalPrice.toFixed( 2));
 })
 
-// let totalPrice = '';
+
 
 
