@@ -11,7 +11,7 @@ Sulla base di queste informazioni dovrà calcolare il prezzo totale del viaggio,
 1. input nome del passagero
 2. input km percorso del passaggero
 3. select età del passaggero
-4. calcolo prezzo al km * quantità km percorso
+4. calcolo prezzo al km * quantità km percorso con sconto età
 4. verifica se il passaggero è minorenne o maggiorenne
 5. verifica se il passaggero è over o under 65
 6. calcolo prezzo con ev scontistica

@@ -31,6 +31,9 @@ btnGenerate.addEventListener('click',function(){
   console.log(totalPrice.toFixed( 2));
 })
 
-
-
+btnClear.addEventListener('click',function(){
+  document.querySelector('.input-name').value = '';
+  document.querySelector('.input-km').value = '';
+  document.getElementById('age').value = 'minorenne';
+})
 
